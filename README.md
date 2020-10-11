@@ -1,4 +1,5 @@
 
-## Angular 9 Students List Mini App
+## Angular Students List Mini App
 
-> Lock files were deleted for security reasons
+Last updated all on 11.10.2020
+
