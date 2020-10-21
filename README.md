@@ -1,5 +1,5 @@
 
 ## Angular Students List Mini App
 
-Last updated all on 11.10.2020
+Last updated all on 21.10.2020
 
