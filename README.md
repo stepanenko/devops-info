@@ -1,5 +1,4 @@
 
-## Angular Students List Mini App
+# Computer Science Info
 
-Last updated all on 21.10.2020
-
+Created: 26.10.2021
