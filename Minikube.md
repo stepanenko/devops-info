@@ -1,5 +1,7 @@
 
-Start cluster: `minikube start`
+Start cluster: `minikube start`. Stop cluster `minikube stop`. Delete cluster `minikube delete`.
+
+Pause/unpause cluster: `minikube pause/unpause`.
 
 Checkout created cluster: `kubectl get po -A`
 
@@ -17,3 +19,5 @@ Open container terminal: `kubectl exec -it mongo-depl-5fd6b7d4b4-txzlv -- bin/ba
 
 ---
 More: https://minikube.sigs.k8s.io/docs/start/
+
+[Minikube Handbook](https://minikube.sigs.k8s.io/docs/handbook/) | [Minikube Commands](https://minikube.sigs.k8s.io/docs/commands/)
