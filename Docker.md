@@ -17,7 +17,9 @@ You can save and share your image on Docker Hub to enable other users to easily 
 
 ## Dockerfile
 Docker can build images automatically by reading the instructions from a Dockerfile.
-A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
+A Dockerfile is a text document that contains the instructions to assemble a Docker image.
+When we tell Docker to build our image by executing the `docker build` command,
+Docker reads these instructions, executes them, and creates a Docker image as a result.
 
 Example of Dockerfile:
 ```
@@ -34,6 +36,7 @@ COPY . .
 
 CMD [ "node", "server.js" ]
 ```
+
 The docker build command builds an image from a Dockerfile and a context: `docker build .`  
 `.` - tells to use the current directory as build context.
 
