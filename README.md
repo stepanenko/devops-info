@@ -1,5 +1,5 @@
 
-# DevOps Info Notes
+# DevOps
 
 Created: 30.10.2021
 
