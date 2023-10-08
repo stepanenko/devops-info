@@ -1,7 +1,7 @@
 
 # DevOps
 
-Created: 30.10.2021
+DevOps is a methodology in the software development and IT industry used as a set of practices and tools. DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) to improve and shorten the systems development life cycle.
 
 Favourite Resources:
 
