@@ -27,6 +27,11 @@ Articles:
 - https://geekflare.com/devops-tools/
 - https://www.qentelli.com/thought-leadership/insights/devops-tools
 
-Video:
+Videos:
 
+- [5 reasons I chose DevOps as a Career](https://www.youtube.com/watch?v=2NtiI0Ojczw&ab_channel=TechWorldwithNana)
+- [What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es&ab_channel=TechWorldwithNana)
+- [DevOps Roadmap 2023 - How to become a DevOps Engineer? What is DevOps?](https://www.youtube.com/watch?v=9pZ2xmsSDdo&ab_channel=TechWorldwithNana)
+- [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&ab_channel=TechWorldwithNana)
+- [10 DevOps Tools you need to know - The Complete Guide](https://www.youtube.com/watch?v=UMQGyeAnfFE&ab_channel=TechWorldwithNana)
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
