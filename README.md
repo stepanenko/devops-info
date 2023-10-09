@@ -1,7 +1,7 @@
 
 # DevOps
 
-DevOps is a methodology in the software development and IT industry used as a set of practices and tools. DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) to improve and shorten the systems development life cycle.
+DevOps is not a tool, technology, or framework; it is more a philosophy, concept and a methodology. It is a set of practices and tools that combines and automates software development (Dev) and IT operations (Ops) to improve and shorten the systems development life cycle.
 
 Proposals to combine software development methodologies with deployment and operations concepts began to appear in the late 80s and early 90s.
 
@@ -9,6 +9,24 @@ The motivations for what has become modern DevOps and several standard DevOps pr
 
 At its core DevOps is the collaboration between the software development and operations teams. DevOps emphasis is on the automation of software development processes like build, test, incident detection and response, release, and others to yield a faster time-to-market, high-quality products, and reduced failures and rollbacks of software/features. 
 
-Favourite Resources:
+Main Objectives of DevOps:
+
+- Establish a framework for particular applications and guarantee scalability.
+- Create collaboration between software development and IT operations teams.
+- Automate processes like testing, deployment, and monitoring to reduce errors.
+- Execute integration and delivery practices to quickly releases software.
+- Encourage continuous feedback and refinement by collecting metrics and analyzing data.
+- Helping teams to be flexible and react promptly to changing customer demands.
+- Integrate testing, monitoring, feedback loops and security into development process.
+
+Resources:
+
+Articles:
+
+- https://spacelift.io/blog/devops-tools#log-management
+- https://geekflare.com/devops-tools/
+- https://www.qentelli.com/thought-leadership/insights/devops-tools
+
+Video:
 
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
