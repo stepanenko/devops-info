@@ -33,8 +33,11 @@ Videos:
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&ab_channel=TechWorldwithNana)
 - [10 DevOps Tools you need to know - The Complete Guide](https://www.youtube.com/watch?v=UMQGyeAnfFE&ab_channel=TechWorldwithNana)
     - CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
-    - Cloud Platform: AWS, Google cloud, Azure
-    - Docker
-    - Kubernetes
+    - Cloud platform: AWS, Google cloud, Azure
+    - Containerization platform: Docker
+    - Container orchestration and management: Kubernetes
     - Monitoring: Prometheus, Grafana
+    - Infrasructure as Code (IaC): Terraform
+    - Configuration management: Ansible
+    - Code editor: VSCode
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
