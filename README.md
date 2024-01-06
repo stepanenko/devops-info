@@ -31,7 +31,7 @@ Videos:
 - [What is Infrastructure as Code? Difference of Infrastructure as Code Tools](https://www.youtube.com/watch?v=POPP2WTJ8es&ab_channel=TechWorldwithNana)
 - [DevOps Roadmap 2023 - How to become a DevOps Engineer? What is DevOps?](https://www.youtube.com/watch?v=9pZ2xmsSDdo&ab_channel=TechWorldwithNana)
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&ab_channel=TechWorldwithNana)
-- [10 DevOps Tools you need to know - The Complete Guide](https://www.youtube.com/watch?v=UMQGyeAnfFE&ab_channel=TechWorldwithNana)
+- [10 DevOps Tools you need to know](https://www.youtube.com/watch?v=UMQGyeAnfFE&ab_channel=TechWorldwithNana)
     - CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
     - Cloud platform: AWS, Google cloud, Azure
     - Containerization platform: Docker
@@ -40,4 +40,6 @@ Videos:
     - Infrasructure as Code (IaC): Terraform
     - Configuration management: Ansible
     - Code editor: VSCode
+    - Git
+    - Linux
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
