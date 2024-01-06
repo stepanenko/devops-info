@@ -32,9 +32,9 @@ Videos:
 - [DevOps Roadmap 2023 - How to become a DevOps Engineer? What is DevOps?](https://www.youtube.com/watch?v=9pZ2xmsSDdo&ab_channel=TechWorldwithNana)
 - [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&ab_channel=TechWorldwithNana)
 - [10 DevOps Tools you need to know](https://www.youtube.com/watch?v=UMQGyeAnfFE&ab_channel=TechWorldwithNana)
-    - CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
-    - Cloud platform: AWS, Google cloud, Azure
-    - Containerization platform: Docker
+    - Jenkins, GitLab CI, GitHub Actions, CircleCI (CI/CD)
+    - AWS, Google cloud, Azure (Cloud platforms)
+    - Docker (Containerization platform)
     - Container orchestration and management: Kubernetes
     - Monitoring: Prometheus, Grafana
     - Infrasructure as Code (IaC): Terraform
