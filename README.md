@@ -35,11 +35,11 @@ Videos:
     - Jenkins, GitLab CI, GitHub Actions, CircleCI (CI/CD)
     - AWS, Google cloud, Azure (Cloud platforms)
     - Docker (Containerization platform)
-    - Container orchestration and management: Kubernetes
-    - Monitoring: Prometheus, Grafana
-    - Infrasructure as Code (IaC): Terraform
-    - Configuration management: Ansible
-    - Code editor: VSCode
-    - Git
-    - Linux
+    - Kubernetes (Container orchestration and management)
+    - Prometheus, Grafana (Monitoring)
+    - Terraform (Infrasructure as Code - IaC)
+    - Ansible (Configuration management)
+    - VSCode (Code editor)
+    - Git (Version control system)
+    - Linux (stable, secure and flexible OS)
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
