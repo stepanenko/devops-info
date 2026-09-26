@@ -9,6 +9,8 @@ Proposals to combine software development with deployment and operations began t
 
 At its core DevOps is the collaboration between the software development and operations teams. DevOps emphasis is on the automation of software development processes like build, test, incident detection and response, release, and others to yield a faster time-to-market, high-quality products, and reduced failures and rollbacks of software/features. 
 
+[The 20% of DevOps that is used 80% of the time](https://github.com/stepanenko/devops-info/blob/master/most_needed.md#the-20-of-devops-that-is-used-80-of-the-time)
+
 ### Main Objectives of DevOps:
 
 **1. Deliver software faster**
