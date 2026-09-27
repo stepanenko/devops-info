@@ -12,14 +12,14 @@ Almost every change starts with Git. You will use it every single day.
 - Pull requests / merge requests
 - Simple branching strategy (main + feature branches)
 
-### 2. CI/CD Pipelines
+### 2. Linux Command Line + Basic Scripting
 
-This is the heart of modern DevOps. Code is automatically built, tested, and deployed.
+Servers, containers, and cloud instances almost always run Linux. You will live in the terminal.
 
-- What Continuous Integration and Continuous Delivery mean
-- How a basic pipeline works (build → test → deploy)
-- One tool deeply: **GitHub Actions** or **GitLab CI** (they are the most common for beginners)
-- How to read and write a simple pipeline file (YAML)
+- Navigating files (`cd`, `ls`, `pwd`, `mkdir`, `rm`)
+- Viewing and editing files (`cat`, `less`, `nano` or `vim`)
+- Permissions, processes, and basic networking (`ps`, `top`, `curl`, `ssh`)
+- Simple Bash scripts
 
 ### 3. Docker (Containers)
 
@@ -30,16 +30,25 @@ Almost every modern application runs in containers. You will build, run, and deb
 - Commands: `build`, `run`, `ps`, `logs`, `exec`
 - Docker Compose for running multiple services locally
 
-### 4. Linux Command Line + Basic Scripting
+### 4. CI/CD Pipelines
 
-Servers, containers, and cloud instances almost always run Linux. You will live in the terminal.
+This is the heart of modern DevOps. Code is automatically built, tested, and deployed.
 
-- Navigating files (`cd`, `ls`, `pwd`, `mkdir`, `rm`)
-- Viewing and editing files (`cat`, `less`, `nano` or `vim`)
-- Permissions, processes, and basic networking (`ps`, `top`, `curl`, `ssh`)
-- Simple Bash scripts
+- What Continuous Integration and Continuous Delivery mean
+- How a basic pipeline works (build → test → deploy)
+- One tool deeply: **GitHub Actions** or **GitLab CI** (they are the most common for beginners)
+- How to read and write a simple pipeline file (YAML)
 
-### 5. Infrastructure as Code (IaC) – Terraform basics
+### 5. Cloud Fundamentals (AWS, Azure, or GCP — pick one)
+
+Most companies run on the cloud. You need to understand the main building blocks.
+
+- Compute (virtual machines / instances)
+- Storage
+- Networking (VPC, subnets, security groups)
+- Identity and access (IAM)
+
+### 6. Infrastructure as Code (IaC) – Terraform basics
 
 Modern teams no longer click around in cloud consoles. They describe infrastructure in code.
 
@@ -47,23 +56,13 @@ Modern teams no longer click around in cloud consoles. They describe infrastruct
 - Basic Terraform: providers, resources, variables, state
 - How to create simple resources (a server, a network, a storage bucket)
 
-### 6. Monitoring & Logging (Observability basics)
+### 7. Monitoring & Logging (Observability basics)
 
 You cannot improve or fix what you cannot see. Every production system needs monitoring.
 
 - The difference between metrics, logs, and traces
 - Basic concepts: alerts, dashboards, uptime
 - One popular stack at a high level (e.g. Prometheus + Grafana, or cloud monitoring tools)
-
-### 7. Cloud Fundamentals (pick one)
-
-Most companies run on the cloud. You need to understand the main building blocks.
-
-Start with **AWS**, **Azure**, or **GCP** — any one is fine
-- Compute (virtual machines / instances)
-- Storage
-- Networking (VPC, subnets, security groups)
-- Identity and access (IAM)
 
 ---
 
